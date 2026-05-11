@@ -1,0 +1,14 @@
+google-generativeai
+langchain
+langchain-core
+langchain-community
+chromadb
+langchain-google-genai
+sentence-transformers
+google-generativeai
+duckduckgo-search
+wikipedia
+streamlit
+ddgs
+faiss-cpu==1.7.4
+pypdf
