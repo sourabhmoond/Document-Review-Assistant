@@ -11,7 +11,7 @@ import os
 
 st.set_page_config(page_title="Legal Document Review App",layout="wide")
 
-st.title("-- Legal Document Review Assistant")
+st.title("-- Document Review Assistant")
 st.write("upload a legal document and ask questions, analyze risks, and summarize clauses")
 
 uploaded_file = st.file_uploader("Upload Legal Document",type=["pdf","txt"])
